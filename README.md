@@ -2,7 +2,7 @@
 #### {This is a landing page for Anita's Kitchen}
 ## By **{Anilla Stephannie}**
 ##Link
-[My Website]   {https://github.com/Anillab/Anita-Kitchen.git}
+[My Website](https://anillab.github.io/Anita-Kitchen/)
 ## Description
 { This  a project for Anita's kitchen landing page website.I}
 
